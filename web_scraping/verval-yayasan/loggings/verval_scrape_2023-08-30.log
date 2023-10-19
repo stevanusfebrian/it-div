@@ -1,0 +1,124 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v114_0_5735_90\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v114_0_5735_90\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+      NPYP  ...                   Provinsi
+0   AB5048  ...           Prov. Jawa Timur
+1   AC1685  ...              Prov. Lampung
+2   AC2510  ...     Prov. Kalimantan Barat
+3   AC4410  ...       Prov. Sulawesi Utara
+4   AC5925  ...     Prov. Sulawesi Selatan
+5   AC8570  ...  Prov. Nusa Tenggara Timur
+6   AC9201  ...             Prov. Bengkulu
+7   AD0979  ...       Prov. Kepulauan Riau
+8   AD1155  ...     Prov. Papua Barat Daya
+9   AE1816  ...          Prov. Jawa Tengah
+10  AE4965  ...           Prov. Jawa Timur
+11  AE6392  ...           Prov. Jawa Timur
+12  AF0382  ...       Prov. Sumatera Barat
+13  AF6083  ...       Prov. Sulawesi Utara
+14  AG2610  ...       Prov. Kepulauan Riau
+15  AG3546  ...       Prov. D.K.I. Jakarta
+16  AG8640  ...          Prov. Jawa Tengah
+17  AH3378  ...                 Prov. Riau
+18  AH8213  ...                Prov. Papua
+19  AI2908  ...          Prov. Jawa Tengah
+20  AI5063  ...           Prov. Jawa Timur
+21  AI7913  ...                 Prov. Aceh
+22  AI8065  ...       Prov. Sumatera Utara
+23  AJ1997  ...     Prov. Kalimantan Timur
+24  AJ3031  ...    Prov. Sulawesi Tenggara
+25  AJ4240  ...                Prov. Papua
+26  AJ5267  ...       Prov. Kepulauan Riau
+27  AJ5673  ...     Prov. Kalimantan Utara
+28  AJ8536  ...           Prov. Jawa Barat
+29  AL1157  ...       Prov. Kepulauan Riau
+30  AL1243  ...       Prov. Kepulauan Riau
+31  AL1373  ...       Prov. Kepulauan Riau
+32  AL6792  ...           Prov. Jawa Timur
+33  AL8407  ...           Prov. Jawa Timur
+34  AM0435  ...       Prov. Sumatera Utara
+35  AM2200  ...              Prov. Lampung
+36  AM3880  ...      Prov. Sulawesi Tengah
+37  AN5919  ...    Prov. Sulawesi Tenggara
+38  AN6474  ...  Prov. Nusa Tenggara Barat
+39  AO2444  ...                 Prov. Riau
+40  AO3348  ...   Prov. Kalimantan Selatan
+41  AO3984  ...               Prov. Maluku
+
+[42 rows x 5 columns]
+       NPSN  ...              Provinsi
+0  20104992  ...  Prov. D.K.I. Jakarta
+1  20106471  ...  Prov. D.K.I. Jakarta
+2  20107300  ...  Prov. D.K.I. Jakarta
+3  20107409  ...  Prov. D.K.I. Jakarta
+4  20107443  ...  Prov. D.K.I. Jakarta
+5  70009518  ...  Prov. D.K.I. Jakarta
+
+[6 rows x 6 columns]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+<bound method DataFrame.info of       NPYP  ...                   Provinsi
+0   AB5048  ...           Prov. Jawa Timur
+1   AC1685  ...              Prov. Lampung
+2   AC2510  ...     Prov. Kalimantan Barat
+3   AC4410  ...       Prov. Sulawesi Utara
+4   AC5925  ...     Prov. Sulawesi Selatan
+5   AC8570  ...  Prov. Nusa Tenggara Timur
+6   AC9201  ...             Prov. Bengkulu
+7   AD0979  ...       Prov. Kepulauan Riau
+8   AD1155  ...     Prov. Papua Barat Daya
+9   AE1816  ...          Prov. Jawa Tengah
+10  AE4965  ...           Prov. Jawa Timur
+11  AE6392  ...           Prov. Jawa Timur
+12  AF0382  ...       Prov. Sumatera Barat
+13  AF6083  ...       Prov. Sulawesi Utara
+14  AG2610  ...       Prov. Kepulauan Riau
+15  AG3546  ...       Prov. D.K.I. Jakarta
+16  AG8640  ...          Prov. Jawa Tengah
+17  AH3378  ...                 Prov. Riau
+18  AH8213  ...                Prov. Papua
+19  AI2908  ...          Prov. Jawa Tengah
+20  AI5063  ...           Prov. Jawa Timur
+21  AI7913  ...                 Prov. Aceh
+22  AI8065  ...       Prov. Sumatera Utara
+23  AJ1997  ...     Prov. Kalimantan Timur
+24  AJ3031  ...    Prov. Sulawesi Tenggara
+25  AJ4240  ...                Prov. Papua
+26  AJ5267  ...       Prov. Kepulauan Riau
+27  AJ5673  ...     Prov. Kalimantan Utara
+28  AJ8536  ...           Prov. Jawa Barat
+29  AL1157  ...       Prov. Kepulauan Riau
+30  AL1243  ...       Prov. Kepulauan Riau
+31  AL1373  ...       Prov. Kepulauan Riau
+32  AL6792  ...           Prov. Jawa Timur
+33  AL8407  ...           Prov. Jawa Timur
+34  AM0435  ...       Prov. Sumatera Utara
+35  AM2200  ...              Prov. Lampung
+36  AM3880  ...      Prov. Sulawesi Tengah
+37  AN5919  ...    Prov. Sulawesi Tenggara
+38  AN6474  ...  Prov. Nusa Tenggara Barat
+39  AO2444  ...                 Prov. Riau
+40  AO3348  ...   Prov. Kalimantan Selatan
+41  AO3984  ...               Prov. Maluku
+
+[42 rows x 5 columns]>
+<bound method DataFrame.info of        NPSN  ...              Provinsi
+0  20104992  ...  Prov. D.K.I. Jakarta
+1  20106471  ...  Prov. D.K.I. Jakarta
+2  20107300  ...  Prov. D.K.I. Jakarta
+3  20107409  ...  Prov. D.K.I. Jakarta
+4  20107443  ...  Prov. D.K.I. Jakarta
+5  70009518  ...  Prov. D.K.I. Jakarta
+
+[6 rows x 6 columns]>

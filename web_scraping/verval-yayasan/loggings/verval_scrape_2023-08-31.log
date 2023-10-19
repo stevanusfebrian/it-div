@@ -1,0 +1,176 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+1
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+1
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+exception error     at try: 0, 10A75762-2495-4037-9F53-623F80741584,  DataFrame.assign() takes 1 positional argument but 2 were given
+exception error     at try: 1, 10A75762-2495-4037-9F53-623F80741584,  DataFrame.assign() takes 1 positional argument but 2 were given
+exception error     at try: 2, 10A75762-2495-4037-9F53-623F80741584,  DataFrame.assign() takes 1 positional argument but 2 were given
+[]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=10A75762-2495-4037-9F53-623F80741584']
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+0    https://sekolah.data.kemdikbud.go.id/index.php...
+1    https://sekolah.data.kemdikbud.go.id/index.php...
+2    https://sekolah.data.kemdikbud.go.id/index.php...
+3    https://sekolah.data.kemdikbud.go.id/index.php...
+4    https://sekolah.data.kemdikbud.go.id/index.php...
+5    https://sekolah.data.kemdikbud.go.id/index.php...
+Name: url, dtype: object
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+[<generator object parse_cabang_yayasan.<locals>.<genexpr> at 0x00000147A2A8D560>]
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+0    https://sekolah.data.kemdikbud.go.id/index.php...
+1    https://sekolah.data.kemdikbud.go.id/index.php...
+2    https://sekolah.data.kemdikbud.go.id/index.php...
+3    https://sekolah.data.kemdikbud.go.id/index.php...
+4    https://sekolah.data.kemdikbud.go.id/index.php...
+5    https://sekolah.data.kemdikbud.go.id/index.php...
+Name: url, dtype: object
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CD9CB12F-B183-4253-84A5-3AD37CF6311D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C0F532E6-4130-4AD5-B461-BAB84B9B1F9D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2A28A9D0-ED31-47EF-88D9-DCAF5EA08CE0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=41A27CA0-5B0F-11E3-8AF4-235F3BAB57F8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6B4E5370-580E-11E3-9128-BFAB159704B2', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2B6FFDAA-95A3-4754-B512-3C992657D75D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=69CF84E4-3120-4396-8058-FB324B192AEF', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3EE2AC3E-946B-4820-835B-4CA85F3023DA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=627B2F99-40FE-4D19-9F6C-9C8BF28A5E10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3313EE64-B6DA-4D97-8277-63C4DB3562EA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9B1D9F15-A03C-4A23-A4B7-3829FCD4121D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=023D39E5-6BF2-4D44-9D3D-A7E0892B969C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=0DB0679E-A33E-4505-B616-713BF9A9EC67', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9D7099DB-E9D3-498F-B4ED-03093C244E26', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CA73E15B-F321-40F5-A5D3-8383356D0C61', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E7F4E6DB-0E31-4D76-8731-0A31D015D567', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=72DA9D29-991C-421F-8724-09A9597847B0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D0F79DF6-8A87-4C37-950C-50A33975B09A', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5973BF47-C60D-4621-BAD1-916062B34774', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=ECD6B0C4-E931-4EDE-A233-6EAFA27EE2B8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D19DCA79-0F8D-4585-BA90-DF7B1F3CC241', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5ACB1094-0B94-4DD5-A390-EAE71E1688CC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=176048F4-5E71-11E3-B033-E349BB90896E', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=DE8FEE72-A658-4854-9552-7F792B9AAB99', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=4A695424-4C0B-4925-A198-1B1CAF395BA1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5EFC663C-F606-4F71-A526-5A90F1772C59', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=416C6025-1C3C-4B07-B3F8-8EF50E2D6759', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=93CE7967-D655-462D-9BD7-9F98201AD5C6', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D24881CC-4ECB-4A22-AFC8-77755ACC32C1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=7796D87C-2BCE-47AD-A429-75FD2C05A575', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1984275D-5B80-4F42-83CB-3D939B1ADF23', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1A5B5CA3-6814-443C-9CBE-E07E0169754C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1CA16E04-F699-4D30-941E-CE5062903A10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2F7E6D98-6135-40CA-B18C-819EBF1A8BF9', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E009EA64-6810-11E3-9842-0798B791F3E5', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=B0AA9D9B-D6C8-4263-BD1E-0A507757B75B', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C1E9047A-83B6-4AE1-BFA5-0060342FFBF3', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6F457DA8-5C7B-421D-9F6E-BF3D5C618498', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=FCDEB2D6-7F53-4E18-A2C4-69C7B659B297', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C17B332A-E35A-4DC2-9674-32DE709F43EC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=13B0B806-35E2-4FC7-9AFE-FFF56BD51A15', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=8A549C28-381A-4872-B20F-A87FE9F69980']
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+0    https://sekolah.data.kemdikbud.go.id/index.php...
+1    https://sekolah.data.kemdikbud.go.id/index.php...
+2    https://sekolah.data.kemdikbud.go.id/index.php...
+3    https://sekolah.data.kemdikbud.go.id/index.php...
+4    https://sekolah.data.kemdikbud.go.id/index.php...
+5    https://sekolah.data.kemdikbud.go.id/index.php...
+Name: url, dtype: object
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+exception error     at try: 0, 10A75762-2495-4037-9F53-623F80741584,  list.append() takes exactly one argument (42 given)
+exception error     at try: 1, 10A75762-2495-4037-9F53-623F80741584,  list.append() takes exactly one argument (42 given)
+exception error     at try: 2, 10A75762-2495-4037-9F53-623F80741584,  list.append() takes exactly one argument (42 given)
+[]
+<class 'list'>
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+[['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CD9CB12F-B183-4253-84A5-3AD37CF6311D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C0F532E6-4130-4AD5-B461-BAB84B9B1F9D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2A28A9D0-ED31-47EF-88D9-DCAF5EA08CE0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=41A27CA0-5B0F-11E3-8AF4-235F3BAB57F8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6B4E5370-580E-11E3-9128-BFAB159704B2', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2B6FFDAA-95A3-4754-B512-3C992657D75D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=69CF84E4-3120-4396-8058-FB324B192AEF', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3EE2AC3E-946B-4820-835B-4CA85F3023DA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=627B2F99-40FE-4D19-9F6C-9C8BF28A5E10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3313EE64-B6DA-4D97-8277-63C4DB3562EA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9B1D9F15-A03C-4A23-A4B7-3829FCD4121D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=023D39E5-6BF2-4D44-9D3D-A7E0892B969C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=0DB0679E-A33E-4505-B616-713BF9A9EC67', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9D7099DB-E9D3-498F-B4ED-03093C244E26', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CA73E15B-F321-40F5-A5D3-8383356D0C61', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E7F4E6DB-0E31-4D76-8731-0A31D015D567', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=72DA9D29-991C-421F-8724-09A9597847B0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D0F79DF6-8A87-4C37-950C-50A33975B09A', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5973BF47-C60D-4621-BAD1-916062B34774', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=ECD6B0C4-E931-4EDE-A233-6EAFA27EE2B8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D19DCA79-0F8D-4585-BA90-DF7B1F3CC241', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5ACB1094-0B94-4DD5-A390-EAE71E1688CC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=176048F4-5E71-11E3-B033-E349BB90896E', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=DE8FEE72-A658-4854-9552-7F792B9AAB99', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=4A695424-4C0B-4925-A198-1B1CAF395BA1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5EFC663C-F606-4F71-A526-5A90F1772C59', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=416C6025-1C3C-4B07-B3F8-8EF50E2D6759', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=93CE7967-D655-462D-9BD7-9F98201AD5C6', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D24881CC-4ECB-4A22-AFC8-77755ACC32C1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=7796D87C-2BCE-47AD-A429-75FD2C05A575', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1984275D-5B80-4F42-83CB-3D939B1ADF23', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1A5B5CA3-6814-443C-9CBE-E07E0169754C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1CA16E04-F699-4D30-941E-CE5062903A10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2F7E6D98-6135-40CA-B18C-819EBF1A8BF9', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E009EA64-6810-11E3-9842-0798B791F3E5', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=B0AA9D9B-D6C8-4263-BD1E-0A507757B75B', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C1E9047A-83B6-4AE1-BFA5-0060342FFBF3', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6F457DA8-5C7B-421D-9F6E-BF3D5C618498', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=FCDEB2D6-7F53-4E18-A2C4-69C7B659B297', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C17B332A-E35A-4DC2-9674-32DE709F43EC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=13B0B806-35E2-4FC7-9AFE-FFF56BD51A15', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=8A549C28-381A-4872-B20F-A87FE9F69980']]
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+0    https://sekolah.data.kemdikbud.go.id/index.php...
+1    https://sekolah.data.kemdikbud.go.id/index.php...
+2    https://sekolah.data.kemdikbud.go.id/index.php...
+3    https://sekolah.data.kemdikbud.go.id/index.php...
+4    https://sekolah.data.kemdikbud.go.id/index.php...
+5    https://sekolah.data.kemdikbud.go.id/index.php...
+Name: url, dtype: object
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+['https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CD9CB12F-B183-4253-84A5-3AD37CF6311D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C0F532E6-4130-4AD5-B461-BAB84B9B1F9D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2A28A9D0-ED31-47EF-88D9-DCAF5EA08CE0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=41A27CA0-5B0F-11E3-8AF4-235F3BAB57F8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6B4E5370-580E-11E3-9128-BFAB159704B2', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2B6FFDAA-95A3-4754-B512-3C992657D75D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=69CF84E4-3120-4396-8058-FB324B192AEF', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3EE2AC3E-946B-4820-835B-4CA85F3023DA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=627B2F99-40FE-4D19-9F6C-9C8BF28A5E10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=3313EE64-B6DA-4D97-8277-63C4DB3562EA', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9B1D9F15-A03C-4A23-A4B7-3829FCD4121D', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=023D39E5-6BF2-4D44-9D3D-A7E0892B969C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=0DB0679E-A33E-4505-B616-713BF9A9EC67', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=9D7099DB-E9D3-498F-B4ED-03093C244E26', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=CA73E15B-F321-40F5-A5D3-8383356D0C61', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E7F4E6DB-0E31-4D76-8731-0A31D015D567', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=72DA9D29-991C-421F-8724-09A9597847B0', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D0F79DF6-8A87-4C37-950C-50A33975B09A', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5973BF47-C60D-4621-BAD1-916062B34774', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=ECD6B0C4-E931-4EDE-A233-6EAFA27EE2B8', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D19DCA79-0F8D-4585-BA90-DF7B1F3CC241', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5ACB1094-0B94-4DD5-A390-EAE71E1688CC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=176048F4-5E71-11E3-B033-E349BB90896E', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=DE8FEE72-A658-4854-9552-7F792B9AAB99', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=4A695424-4C0B-4925-A198-1B1CAF395BA1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=5EFC663C-F606-4F71-A526-5A90F1772C59', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=416C6025-1C3C-4B07-B3F8-8EF50E2D6759', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=93CE7967-D655-462D-9BD7-9F98201AD5C6', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=D24881CC-4ECB-4A22-AFC8-77755ACC32C1', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=7796D87C-2BCE-47AD-A429-75FD2C05A575', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1984275D-5B80-4F42-83CB-3D939B1ADF23', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1A5B5CA3-6814-443C-9CBE-E07E0169754C', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=1CA16E04-F699-4D30-941E-CE5062903A10', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=2F7E6D98-6135-40CA-B18C-819EBF1A8BF9', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=E009EA64-6810-11E3-9842-0798B791F3E5', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=B0AA9D9B-D6C8-4263-BD1E-0A507757B75B', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C1E9047A-83B6-4AE1-BFA5-0060342FFBF3', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=6F457DA8-5C7B-421D-9F6E-BF3D5C618498', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=FCDEB2D6-7F53-4E18-A2C4-69C7B659B297', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=C17B332A-E35A-4DC2-9674-32DE709F43EC', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=13B0B806-35E2-4FC7-9AFE-FFF56BD51A15', 'https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/profil?yayasan_id=8A549C28-381A-4872-B20F-A87FE9F69980']
+[       NPSN                         Nama  ...             Nama Yayasan Kode Yayasan
+0  20104992              SDS HANG TUAH 8  ...  Yayasan Hang Tuah Pusat       AX1640
+1  20106471      SMP HANG TUAH 5 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+2  20107300     SMAS HANG TUAH 1 JAKARTA  ...  Yayasan Hang Tuah Pusat       AX1640
+3  20107409             SMKS HANG TUAH 2  ...  Yayasan Hang Tuah Pusat       AX1640
+4  20107443  SMKS PELAYARAN JAKARTA RAYA  ...  Yayasan Hang Tuah Pusat       AX1640
+5  70009518            KB PAUD HANG TUAH  ...  Yayasan Hang Tuah Pusat       AX1640
+
+[6 rows x 20 columns]]
+<class 'list'>
+0    https://sekolah.data.kemdikbud.go.id/index.php...
+1    https://sekolah.data.kemdikbud.go.id/index.php...
+2    https://sekolah.data.kemdikbud.go.id/index.php...
+3    https://sekolah.data.kemdikbud.go.id/index.php...
+4    https://sekolah.data.kemdikbud.go.id/index.php...
+5    https://sekolah.data.kemdikbud.go.id/index.php...
+Name: url, dtype: object

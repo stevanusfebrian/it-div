@@ -1,0 +1,21 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provices
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provices
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provices
+province done in: 13.275244235992432 seconds
+getting kabupaten/kota
+kabupaten done in: 76.1573338508606
+getting kecamatan
+get kecamatan done in: 7.221403121948242
+getting yayasan
+get yayasan done in: 6.7564709186553955
+getting yayasan profiles
+get yayasan profiles done in: 97.72934865951538
