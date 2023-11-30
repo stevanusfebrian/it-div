@@ -1,0 +1,191 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  120
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  120
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  120
+2023-09-03 21:38:32 - Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-09-03 21:38:32 - Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+2023-09-03 21:38:33 - Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-09-03 21:38:33 - Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+2023-09-03 21:38:33 - Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-09-03 21:38:33 - Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+2023-09-03 21:38:34 - Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-09-03 21:38:34 - Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v114_0_5735_90\chromedriver.exe
+chrome location webdriver\chrome\Windows\v114_0_5735_90\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+chrome location webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  4
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 0
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 1
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 2
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  4
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 0
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 1
+1
+['https://dapo.kemdikbud.go.id/sekolah/87B50624DCF8423E8396'
+ 'https://dapo.kemdikbud.go.id/sekolah/EE848173DE0E4B147643'], error: Object of type ndarray is not JSON serializable, retry: 2
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  4
+1
+1
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  100
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  300

@@ -1,0 +1,3504 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+https://dapo.kemdikbud.go.id/sekolah/A54F371F56918BD54233, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/77E19C0B95DBC03C6F39, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EF46A311F32BFE67E338, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6F70F81FCB412D515A9E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A54F371F56918BD54233, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/77E19C0B95DBC03C6F39, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/6F70F81FCB412D515A9E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/EF46A311F32BFE67E338, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/A54F371F56918BD54233, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/77E19C0B95DBC03C6F39, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/6F70F81FCB412D515A9E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/EF46A311F32BFE67E338, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/0F8A0FD3D5CC78DFEA5B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EE94A8879D9BFDCD8AF4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4E1521EF499A3D071EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4051EDE8712DE1168304, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0F8A0FD3D5CC78DFEA5B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/EE94A8879D9BFDCD8AF4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/4E1521EF499A3D071EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1https://dapo.kemdikbud.go.id/sekolah/4051EDE8712DE1168304, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+
+https://dapo.kemdikbud.go.id/sekolah/0F8A0FD3D5CC78DFEA5B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2https://dapo.kemdikbud.go.id/sekolah/EE94A8879D9BFDCD8AF4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/4E1521EF499A3D071EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2https://dapo.kemdikbud.go.id/sekolah/4051EDE8712DE1168304, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+
+https://dapo.kemdikbud.go.id/sekolah/2BE865E4D096129BF3D6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0https://dapo.kemdikbud.go.id/sekolah/503EA27C4CE208A323DA, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+
+https://dapo.kemdikbud.go.id/sekolah/BA523FE36AA0C34BE5C9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C670E8FED11ED0613EE3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+ )https://dapo.kemdikbud.go.id/sekolah/2BE865E4D096129BF3D6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/503EA27C4CE208A323DA, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/C670E8FED11ED0613EE3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/BA523FE36AA0C34BE5C9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/2BE865E4D096129BF3D6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/503EA27C4CE208A323DA, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/C670E8FED11ED0613EE3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/BA523FE36AA0C34BE5C9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/5F173A3FE26056DB0EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FB7579AB760A6DE2B328, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3BFDDBC2CD0997C570F8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9E0EB1519821DD929F52, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5F173A3FE26056DB0EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/FB7579AB760A6DE2B328, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/3BFDDBC2CD0997C570F8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/9E0EB1519821DD929F52, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/5F173A3FE26056DB0EC4, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/FB7579AB760A6DE2B328, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/3BFDDBC2CD0997C570F8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/9E0EB1519821DD929F52, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/FE7203E00617B639B27F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/853F27928D78D9FFCDEB, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7A3F71F0697FD3795B96, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9EB41526D5008CCE2C8B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FE7203E00617B639B27F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/853F27928D78D9FFCDEB, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/7A3F71F0697FD3795B96, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/9EB41526D5008CCE2C8B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/FE7203E00617B639B27F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/853F27928D78D9FFCDEB, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/7A3F71F0697FD3795B96, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/9EB41526D5008CCE2C8B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/8C33A5B1038584F122A7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8E52E691A4E597FFFCF3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6A4E3FAA945DFF5E3109, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9CAB2FF3E92806446A80, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8C33A5B1038584F122A7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/8E52E691A4E597FFFCF3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/6A4E3FAA945DFF5E3109, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/9CAB2FF3E92806446A80, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/8C33A5B1038584F122A7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/8E52E691A4E597FFFCF3, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/6A4E3FAA945DFF5E3109, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/9CAB2FF3E92806446A80, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/55E4BDEE7E2D9FAFB418, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0ADD57F373F25009E7C2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4896D8B877A1E303D4BF, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1B305358B2F0FBE75694, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/55E4BDEE7E2D9FAFB418, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/0ADD57F373F25009E7C2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/4896D8B877A1E303D4BF, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/1B305358B2F0FBE75694, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/55E4BDEE7E2D9FAFB418, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/0ADD57F373F25009E7C2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/4896D8B877A1E303D4BF, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/1B305358B2F0FBE75694, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/4C70A8C8732C9B714389, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A2F9F256A5533D16442F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/820E19C0CA64379C1DF6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/08FCF0C00C10AC8B98E6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4C70A8C8732C9B714389, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/A2F9F256A5533D16442F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/820E19C0CA64379C1DF6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/08FCF0C00C10AC8B98E6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/4C70A8C8732C9B714389, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/A2F9F256A5533D16442F, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/820E19C0CA64379C1DF6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/08FCF0C00C10AC8B98E6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/5B3F3F450D844C43106C, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0C005A7053F0E3CBA1C7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/310554031DDCFEE8F855, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/84ACF4B991681E6CFF8E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5B3F3F450D844C43106C, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/0C005A7053F0E3CBA1C7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/310554031DDCFEE8F855, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/84ACF4B991681E6CFF8E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/5B3F3F450D844C43106C, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/0C005A7053F0E3CBA1C7, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/310554031DDCFEE8F855, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/84ACF4B991681E6CFF8E, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/79A2D87A9DA69FBE87DC, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BAE27766776582A6A6D8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/287F58BC4DD6C8A77059, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/39920E0E53A1904F0A76, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/79A2D87A9DA69FBE87DC, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/BAE27766776582A6A6D8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/287F58BC4DD6C8A77059, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/39920E0E53A1904F0A76, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/79A2D87A9DA69FBE87DC, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/BAE27766776582A6A6D8, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/287F58BC4DD6C8A77059, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/39920E0E53A1904F0A76, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/E5810BEDDAE57BF54E1B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/32E62B1E3614C518F60B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A8E33AFDE96C5FB7F5E2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C6B44DD4C8348BD224B9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E5810BEDDAE57BF54E1B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/32E62B1E3614C518F60B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/A8E33AFDE96C5FB7F5E2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/C6B44DD4C8348BD224B9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/E5810BEDDAE57BF54E1B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/32E62B1E3614C518F60B, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/A8E33AFDE96C5FB7F5E2, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/C6B44DD4C8348BD224B9, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 2
+https://dapo.kemdikbud.go.id/sekolah/8623CB6C03D0BBD8AC62, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6CF936B28FB64BBD4A67, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/715611E2A37A7A4D20F6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9FD7A868A9C3E0836CD1, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8623CB6C03D0BBD8AC62, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/6CF936B28FB64BBD4A67, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/715611E2A37A7A4D20F6, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1
+https://dapo.kemdikbud.go.id/sekolah/9FD7A868A9C3E0836CD1, error: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A9C52A2+57122]
+	(No symbol) [0x00007FF74A93EA92]
+	(No symbol) [0x00007FF74A80E3AB]
+	(No symbol) [0x00007FF74A7FBA47]
+	(No symbol) [0x00007FF74A7FB6C0]
+	(No symbol) [0x00007FF74A80FA71]
+	(No symbol) [0x00007FF74A87E27F]
+	(No symbol) [0x00007FF74A866DB3]
+	(No symbol) [0x00007FF74A83D2B1]
+	(No symbol) [0x00007FF74A83E494]
+	GetHandleVerifier [0x00007FF74AC6EF82+2849794]
+	GetHandleVerifier [0x00007FF74ACC1D24+3189156]
+	GetHandleVerifier [0x00007FF74ACBACAF+3160367]
+	GetHandleVerifier [0x00007FF74AA56D06+653702]
+	(No symbol) [0x00007FF74A94A208]
+	(No symbol) [0x00007FF74A9462C4]
+	(No symbol) [0x00007FF74A9463F6]
+	(No symbol) [0x00007FF74A9367A3]
+	BaseThreadInitThunk [0x00007FF88229257D+29]
+	RtlUserThreadStart [0x00007FF88384AA68+40]
+, retry: 1

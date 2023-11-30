@@ -1,0 +1,59 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  441570
+getting sekolah profile
+404:  https://dapo.kemdikbud.go.id/sekolah/EBD0D4BF7380479FDF4D
+404:  https://dapo.kemdikbud.go.id/sekolah/2D96FFCF1EB94D26F64D
+https://dapo.kemdikbud.go.id/sekolah/B32B109307BF259E1680, error: 'NoneType' object has no attribute 'find_all', retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/E77110EBDCCCCDCB56A7
+404:  https://dapo.kemdikbud.go.id/sekolah/D1A22F2E458AD98B247B
+404:  https://dapo.kemdikbud.go.id/sekolah/CA90B951EDAFB192E750
+404:  https://dapo.kemdikbud.go.id/sekolah/308A9D3E8E85ECD6CBC5
+404:  https://dapo.kemdikbud.go.id/sekolah/BCDAFA26FDB1F875B49E
+404:  https://dapo.kemdikbud.go.id/sekolah/C75C97F6E59C8ECA81FD
+404:  https://dapo.kemdikbud.go.id/sekolah/A3DB9ED2A4B7A7DA06BC
+404:  https://dapo.kemdikbud.go.id/sekolah/3AF5C869586DA86D2F63
+404:  https://dapo.kemdikbud.go.id/sekolah/22D8BB38EC44B98F47AB
+404:  https://dapo.kemdikbud.go.id/sekolah/842005640D9A34A09500
+404:  https://dapo.kemdikbud.go.id/sekolah/92D538E3BED8CB204E92
+404:  https://dapo.kemdikbud.go.id/sekolah/0D4F9B92F53B59B01287
+404:  https://dapo.kemdikbud.go.id/sekolah/F0BE8B6AE963CCCD937C
+404:  https://dapo.kemdikbud.go.id/sekolah/A84E95009F9EEE8FED5D
+404:  https://dapo.kemdikbud.go.id/sekolah/6A3A6D0A737ACB364C95
+404:  https://dapo.kemdikbud.go.id/sekolah/D06832E0C5F93C674141
+404:  https://dapo.kemdikbud.go.id/sekolah/622A00F0EF8BF6BC9DDC
+404:  https://dapo.kemdikbud.go.id/sekolah/FB3AC453329BEA777ABB
+https://dapo.kemdikbud.go.id/sekolah/0A55D979276CF8271A18, error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=116.0.5845.141)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7073652A2+57122]
+	(No symbol) [0x00007FF7072DEA92]
+	(No symbol) [0x00007FF7071AE3AB]
+	(No symbol) [0x00007FF7071AA161]
+	(No symbol) [0x00007FF70719CADF]
+	(No symbol) [0x00007FF70719DE82]
+	(No symbol) [0x00007FF70719CEB8]
+	(No symbol) [0x00007FF70719BFBE]
+	(No symbol) [0x00007FF70719BF63]
+	(No symbol) [0x00007FF70719A9E5]
+	(No symbol) [0x00007FF70719B153]
+	(No symbol) [0x00007FF7071AFF4B]
+	(No symbol) [0x00007FF70721EEF7]
+	(No symbol) [0x00007FF707206FDA]
+	(No symbol) [0x00007FF70721EB82]
+	(No symbol) [0x00007FF707206DB3]
+	(No symbol) [0x00007FF7071DD2B1]
+	(No symbol) [0x00007FF7071DE494]
+	GetHandleVerifier [0x00007FF70760EF82+2849794]
+	GetHandleVerifier [0x00007FF707661D24+3189156]
+	GetHandleVerifier [0x00007FF70765ACAF+3160367]
+	GetHandleVerifier [0x00007FF7073F6D06+653702]
+	(No symbol) [0x00007FF7072EA208]
+	(No symbol) [0x00007FF7072E62C4]
+	(No symbol) [0x00007FF7072E63F6]
+	(No symbol) [0x00007FF7072D67A3]
+	BaseThreadInitThunk [0x00007FFF8FA826AD+29]
+	RtlUserThreadStart [0x00007FFF9138AA68+40]
+, retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/6E7624C88A1D939D2DC6

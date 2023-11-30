@@ -1,0 +1,286 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provinsi
+get provinsi done in: 0.492023229598999 seconds
+provinces 39
+getting kabupaten
+get kab/kota done in: 10.413357257843018 seconds
+kode_wilayah_kabupaten:  527
+getting kecamatan
+get kecamatan done in: 1.4045095443725586 seconds
+kode_wilayah_kecamatan:  34
+getting kecamatan
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provinsi
+get provinsi done in: 0.3479502201080322 seconds
+provinces 39
+getting kabupaten
+get kab/kota done in: 11.028059959411621 seconds
+kode_wilayah_kabupaten:  527
+getting kecamatan
+get kecamatan done in: 1.5159451961517334 seconds
+kode_wilayah_kecamatan:  34
+getting kecamatan
+get sekolah done in: 1.2137634754180908 seconds
+sekolah_urls:  381
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provinsi
+get provinsi done in: 0.6644935607910156 seconds
+provinces 39
+getting kabupaten
+get kab/kota done in: 11.962080717086792 seconds
+kode_wilayah_kabupaten:  527
+getting kecamatan
+get kecamatan done in: 1.3045172691345215 seconds
+kode_wilayah_kecamatan:  34
+getting kecamatan
+get sekolah done in: 1.3435845375061035 seconds
+sekolah_urls:  381
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+getting provinsi
+get provinsi done in: 0.4432666301727295 seconds
+provinces 39
+getting kabupaten
+get kab/kota done in: 9.476540565490723 seconds
+kode_wilayah_kabupaten:  527
+getting kecamatan
+get kecamatan done in: 156.3969008922577 seconds
+kode_wilayah_kecamatan:  7266
+getting kecamatan
+get sekolah done in: 2411.435223340988 seconds
+sekolah_urls:  441570
+https://dapo.kemdikbud.go.id/sekolah/DAC0BFD2844B2B3B5A1B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/542444B7B321422AE1E9, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BE80AAD5B645B5AEEFA3, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C3B2B87672DD85583658, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/77A5C56972DB900DD614, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D4DBB7921136ACEEA576, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3B6998D9BB54177D7D9C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/998FBFC869F0BDD95226, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F6E9469679DB57B9F010, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4398AA940FDCC7C3CB96, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C0FA5744E41E47E3E8B7, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/82CD69A0F38C6C72D22F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4049FC6210C4058D780C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2811A09BCCD454518151, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5F300D8795FD733BFA6E, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E6B47FD3FF8B061F77AD, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/CB543ABFC32BFDC8B231, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/310C0C6FDC6DBB3E5F5F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DECB6ABA45D953AAA722, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D610EC6ECA0D6304C599, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FAE8BDAD8326C584BF94, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FEBE360E8EB3A8A1215C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/249D90C9CE39F9779A8C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5768F16CBD1D1E2A2CBA, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3228CFF1D40010137B8E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DC7AB791602977DE5B90, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A543949032CA67C54185, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/97C2CCFE74A2C15BFE60, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9510F5AB74C1179ECFE6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F6475C536B2989231869, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/26DD932D3D08183368AA, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C74DB74179AA2C9E5A1D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D05D08DBA55FCF7447F9, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6F2AEB6FBE033DE6D0C5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C4D24986BCE50B9FD8CF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C0B9718A301790F81C81, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D696B6521661CDB31BA9, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A3A0A5BD6F510448FCD9, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4775F4B607D19DBA7E52, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/97E5CC8E05427023041E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6B306547A4AE84EA27A5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/978BAAA75E1E925E9AE8, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/96F88596ED92BE145F45, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1C96B54579FD0F93060C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1E7A09944BF761D84A3F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/30D697082D74CF4A5C9E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8161F4614FD4ED16B67D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/493CDF555594CD49FDC6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/48655744AAEA0F619B66, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B9A9D9375CC66D02B38C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DFB9AE33D1E3C5FB59F8, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/746D50D6292FEBAF3AFF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/58EC22ECA829E3472344, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BAC86CC821BFCEDAAF01, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5D76A0C3D49D8518C9E1, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1FC06BDE24BA8FFF9F26, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8C6A7DB527C0DE12CEEE, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E7A10F6CF705338FFCBB, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8BE0300C0D011BA50CC8, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EB5A2AB92A27466801CC, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/669E7F5F7FC0F9252938, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8AF5BF81FB7A55B3A72A, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/91D73E227EF3B4217CF7, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/61D12836E407C87721A4, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/27A3AC45909A494A9981, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/29F669B9E9D12AF84D5B, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C04F6EB70EF171DD94BF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B120B2F85AA86BE7726E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1ECADE20D2DDB4594265, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3BDB20BC53A5A2093F34, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E279C16AB02E295892C6, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D6DDD7E5B4DF8CCE45DB, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/793419E9454C72BF07EB, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/10780E1537D1C3C92C32, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3833509F37A02E155DEB, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EC03A7709FD9C89542E0, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E5448D3C2BD90397536A, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1A3713A28A3D2D629225, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3AC8EE67703F66322EBE, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E07D37AA615140F5F5F2, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FAC18D7DF8A5C97E6999, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/78AE508DFDE90F0BCAA5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D65707C89DB5EC6CFFF9, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9FCCF91711816AB43CA6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DF7AD1C1F7F6F3BB6AEA, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/55DC7396B1A57A706F8D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/CD6F074972AA5247D329, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2BB2BB7229D89A39A2E2, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1D1C359827DE1FA5A681, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3AF5C869586DA86D2F63, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/23DB2C6E1851DE9CF286, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7560C8B88B271985DA97, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8F103656F8AC9A884F0A, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B48F236502BDD67066DA, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1E846E20AF02E1FFFAFC, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/ECA6B0C1DCFE68F7EB3F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4224E5800265CBE6738B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/19C0129F547E057CBA35, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4848DE502D2303210CE4, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E07803A0210721817C3E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/CA56E70B3D70176138BE, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A44E7C892CF722298C92, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/15C13FD07E338F942B0D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/63A8E12564C7A0CBF226, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A6D74A18BDBBEF08F4C3, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4B2AD57529021E4A8846, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0EE552D8B2E8741E607C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7A1F9CF483DBD2D32D69, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5B507DDF4F2EC76FBD07, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/AB29D9B5158E03866008, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/74F98C9CE3FB5B30F577, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A64901E93369BBF639A0, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/97583C001AAF5452B86E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B3CF3AE1A1E6354BDE93, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/AD91BAED1C922CB73AB0, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/113599C778D92D939B16, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EDC39912793D82CEC10D, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/140B42F87FDD3D14F6B6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F8F099B145388687AAD8, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2DD0FC55111C58AE49D7, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/868F3555DAA3EF6469E5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1F3A53DAED090BE32223, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/778DFDC57948B8F309C4, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4B32995D2F19AD285B17, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E7DE430EF7DB52797C29, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D6D431BB87B3A59396B2, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4A896F5188F0A1B4D15C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/88828796C226AF488444, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B60172ACA063E8AF050E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D622614C7CA4004557DF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/58E3CB326C298702CA6F, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4CFE64F3C5EE7F98F5AB, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EF11C81B7B12208A5E28, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/363C5826ADDF9563C822, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6D5D4281FEA91BE8C4F9, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/753FB52365E5317BE0F4, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DE63E5A84E6420943D16, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/962E6C8876C85D3AE9E1, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7D394D96E8C35963C3E1, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D10A83F1667C7E3CAF7C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DA26AD519AFFEBBD5209, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EAD7EEBFDB98814C2428, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/82909D03C24EFE18AFF7, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D3D5615067A572B8DEE3, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BDF1C625B60C4BFAB751, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2CBD2E4A5D47E2C09022, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EAFFC2AA87947832E9DE, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/752EECCD5673CE001DAD, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BD27DFB25168A49960FC, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C4AB90F4233BB71484E0, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/04529A2D537FCF5A7DE3, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/EFF3AD35983CC18AFF40, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3CD5A947D5EA50A65FAC, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0B681A9B88C3E286933D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8C746A8A51BCA2EFBC42, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1D730DD16F0467FA0519, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4C4C8124A4979B2967E7, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/171715FB5F2FB206901D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C61832265ED2F454A565, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9DA66A6A1B56D4D34429, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/027E10CA4896971A67C6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7032EF839A8323A509C4, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FE7A5E1D2F4DFB3FC16F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D336ED42FA6320C86399, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/54DA1D9BCEF2B6553AEE, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A7A85775F3A5B29E2477, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C97910C5A4A890F2A07D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BEAE934DF16401A3B124, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C567B3C833F0147A3009, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DE87374433F6BF54B60B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/8D04D9B04CE3682F0A2B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F0F8C391820BA249DA9B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0B1BAF610AF767F9968C, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5EC3FAACA1B5D62FA6D1, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3A39B2D6D800A4E6C2A9, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/CEC86EC6CB213B77FA76, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7020B5AAC3478058AAFA, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0D62B8D8EDE347A26ED5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/21E36BA5950E66FBCE59, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2AE02854140F9D50091C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/29D21F388521E6C5F00A, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3EF0883C46EB002E6BB3, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/629D112638A6C98CF84B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/171C88455A1498A47306, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A3ADFA70BBC96BFADA54, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A090885A1339C0D9A794, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C3568530FC41CF6168FE, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C08A4C4BA21506963CA6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/44F8394C919B4E5FA06B, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A8663567D74D77F22EBF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DA68380E43C62DD5FBB5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/48F0A75ADAF5D321A6AC, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DAA5F7D6D67131114503, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/103EC38BC90376BC784C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F72F591CB25E5C59BC6C, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3F87E89399E291863262, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/736D1FD681BDEC2376BA, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/DFF54DB3DD752AA016B2, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/E4C329365DCD893FDD95, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/A543FA71249C92A7303B, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/53B1E6E18F108C51842F, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B6081A58CB61B34D5607, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4B4D2BC3466DD7F880A6, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0076B96E9EC66C1DC66E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/4060E71A4FF1C19C7723, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D7F8568F8E3863530965, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/077F63C15F5B6D92F5C7, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0C1445B052E35857EAD7, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2B5C987D8256C32783D0, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0AD7C9694D32A61E57B2, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C6F6EFCFA1E003639924, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FD92BBB33952565EBA57, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/78F10A4B9958BF8C3A7E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/29E5833FABB1E2DECDF5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/00FC4948C53A1685D069, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1E3038ADEF6B628F91F5, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5E08078585FB587623F9, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/34197F751DA960F00884, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/72155FDC22DA90F5ECE4, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/79213E1C329B6580B642, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F40817C77327049005DF, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/BF704C2117C1BCFFDB43, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B54FA2C49BD6D06820EE, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/66842AA9EDD51629F082, error: Server disconnected, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/3E68B5BFD2863A43E669, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5098AD89DB5B6034653E, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1D36D8D08569FA2F6A4D, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/D6F9A69C9A5D164C2BA5, error: [WinError 10054] An existing connection was forcibly closed by the remote host, retry: 0

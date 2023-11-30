@@ -1,0 +1,36 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+getting unprocessed schools
+get profile sekolah done in: 3086.3730204105377 seconds
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+getting unprocessed schools
+get profile sekolah done in: 7923.224973678589 seconds
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+https://dapo.kemdikbud.go.id/sekolah/9446150B727BFCA60120, error: 'NoneType' object has no attribute 'get_text', retry: 0
+getting unprocessed schools
+get profile sekolah done in: 8067.597072601318 seconds
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+getting unprocessed schools
+get profile sekolah done in: 9701.592520475388 seconds
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+getting unprocessed schools
+get profile sekolah done in: 10267.365905761719 seconds

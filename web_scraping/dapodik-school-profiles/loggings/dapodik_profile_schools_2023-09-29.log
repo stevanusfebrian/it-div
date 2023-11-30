@@ -1,0 +1,10 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+404:  https://dapo.kemdikbud.go.id/sekolah/860FB70CEAA8C98C011F
+404:  https://dapo.kemdikbud.go.id/sekolah/FFCEC2757339761E1E40
+404:  https://dapo.kemdikbud.go.id/sekolah/D1290DCA1D57137DF586
+getting unprocessed schools
+get profile sekolah done in: 11056.087378025055 seconds

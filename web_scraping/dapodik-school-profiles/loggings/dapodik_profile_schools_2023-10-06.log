@@ -1,0 +1,118 @@
+OS SYSTEM:    Windows
+CPU CORES:    4
+CHROME PATH:     webdriver\chrome\Windows\v116_0_5845_96\chromedriver.exe
+sekolah_urls:  414792
+getting sekolah profile
+https://dapo.kemdikbud.go.id/sekolah/11FF948F2C0DC758E4D5, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/F069C4575976F09B363E, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/98D416CBD810AB073ACB, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/0277CCA0CE654881DDB4, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/344BE7D93EB942B4C67F, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/943CDBBC31951D5C668C, error: list index out of range, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/9DBDB70A61EC5F4E7073, error: Message: timeout: Timed out receiving message from renderer: 298.026
+  (Session info: headless chrome=117.0.5938.151)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6645152A2+57122]
+	(No symbol) [0x00007FF66448EA92]
+	(No symbol) [0x00007FF66435E3AB]
+	(No symbol) [0x00007FF66434C01A]
+	(No symbol) [0x00007FF66434BF63]
+	(No symbol) [0x00007FF66434A9E5]
+	(No symbol) [0x00007FF66434B31E]
+	(No symbol) [0x00007FF6643580CB]
+	(No symbol) [0x00007FF664367F31]
+	(No symbol) [0x00007FF66436C0DA]
+	(No symbol) [0x00007FF66434B8E7]
+	(No symbol) [0x00007FF664367E0A]
+	(No symbol) [0x00007FF6643CEBE9]
+	(No symbol) [0x00007FF6643B6DB3]
+	(No symbol) [0x00007FF66438D2B1]
+	(No symbol) [0x00007FF66438E494]
+	GetHandleVerifier [0x00007FF6647BEF82+2849794]
+	GetHandleVerifier [0x00007FF664811D24+3189156]
+	GetHandleVerifier [0x00007FF66480ACAF+3160367]
+	GetHandleVerifier [0x00007FF6645A6D06+653702]
+	(No symbol) [0x00007FF66449A208]
+	(No symbol) [0x00007FF6644962C4]
+	(No symbol) [0x00007FF6644963F6]
+	(No symbol) [0x00007FF6644867A3]
+	BaseThreadInitThunk [0x00007FFACAAB257D+29]
+	RtlUserThreadStart [0x00007FFACBC0AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1CE4F7A50366982C2059, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/1C8D879BCE38A3C5DE31, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/5102D6286B8BE8C878ED, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/2A0D05AD7C3609A486D0, error: Message: timeout: Timed out receiving message from renderer: 254.487
+  (Session info: headless chrome=117.0.5938.151)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6645152A2+57122]
+	(No symbol) [0x00007FF66448EA92]
+	(No symbol) [0x00007FF66435E3AB]
+	(No symbol) [0x00007FF66434C01A]
+	(No symbol) [0x00007FF66434BF63]
+	(No symbol) [0x00007FF66434A9E5]
+	(No symbol) [0x00007FF66434B31E]
+	(No symbol) [0x00007FF6643580CB]
+	(No symbol) [0x00007FF664367F31]
+	(No symbol) [0x00007FF66436C0DA]
+	(No symbol) [0x00007FF66434B8E7]
+	(No symbol) [0x00007FF664367E0A]
+	(No symbol) [0x00007FF6643CEBE9]
+	(No symbol) [0x00007FF6643B6DB3]
+	(No symbol) [0x00007FF66438D2B1]
+	(No symbol) [0x00007FF66438E494]
+	GetHandleVerifier [0x00007FF6647BEF82+2849794]
+	GetHandleVerifier [0x00007FF664811D24+3189156]
+	GetHandleVerifier [0x00007FF66480ACAF+3160367]
+	GetHandleVerifier [0x00007FF6645A6D06+653702]
+	(No symbol) [0x00007FF66449A208]
+	(No symbol) [0x00007FF6644962C4]
+	(No symbol) [0x00007FF6644963F6]
+	(No symbol) [0x00007FF6644867A3]
+	BaseThreadInitThunk [0x00007FFACAAB257D+29]
+	RtlUserThreadStart [0x00007FFACBC0AA68+40]
+, retry: 0
+https://dapo.kemdikbud.go.id/sekolah/B6BCDEA638FE99F667B1, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/7BAD67C22A58F9557325, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/6BD70E906152947B3C3C, error: 'NoneType' object has no attribute 'find_all', retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/B81C2901B374A9D9B9CE
+https://dapo.kemdikbud.go.id/sekolah/236D83B7458CC4E0D24D, error: Message: timeout: Timed out receiving message from renderer: 299.629
+  (Session info: headless chrome=117.0.5938.151)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6645152A2+57122]
+	(No symbol) [0x00007FF66448EA92]
+	(No symbol) [0x00007FF66435E3AB]
+	(No symbol) [0x00007FF66434C01A]
+	(No symbol) [0x00007FF66434BF63]
+	(No symbol) [0x00007FF66434A9E5]
+	(No symbol) [0x00007FF66434B31E]
+	(No symbol) [0x00007FF6643580CB]
+	(No symbol) [0x00007FF664367F31]
+	(No symbol) [0x00007FF66436C0DA]
+	(No symbol) [0x00007FF66434B8E7]
+	(No symbol) [0x00007FF664367E0A]
+	(No symbol) [0x00007FF6643CEBE9]
+	(No symbol) [0x00007FF6643B6DB3]
+	(No symbol) [0x00007FF66438D2B1]
+	(No symbol) [0x00007FF66438E494]
+	GetHandleVerifier [0x00007FF6647BEF82+2849794]
+	GetHandleVerifier [0x00007FF664811D24+3189156]
+	GetHandleVerifier [0x00007FF66480ACAF+3160367]
+	GetHandleVerifier [0x00007FF6645A6D06+653702]
+	(No symbol) [0x00007FF66449A208]
+	(No symbol) [0x00007FF6644962C4]
+	(No symbol) [0x00007FF6644963F6]
+	(No symbol) [0x00007FF6644867A3]
+	BaseThreadInitThunk [0x00007FFACAAB257D+29]
+	RtlUserThreadStart [0x00007FFACBC0AA68+40]
+, retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/A1028900F6529B46A41B
+https://dapo.kemdikbud.go.id/sekolah/E0A24B0D5A49D85173CC, error: 'NoneType' object has no attribute 'find_all', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/FC8AED94F06C66DC88F8, error: 'NoneType' object has no attribute 'find_all', retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/389D67C9A2C7E088E258
+https://dapo.kemdikbud.go.id/sekolah/F7C57BE72BEB7BB73BAF, error: 'NoneType' object has no attribute 'find_all', retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/0D3DBC6F242D01CED310
+https://dapo.kemdikbud.go.id/sekolah/C7C4879AD0AF7100FAB3, error: 'NoneType' object has no attribute 'get_text', retry: 0
+https://dapo.kemdikbud.go.id/sekolah/C3F841AA20F533F09BF5, error: 'NoneType' object has no attribute 'get_text', retry: 0
+404:  https://dapo.kemdikbud.go.id/sekolah/41BC34AE1D4CFFD7FAA9
+getting unprocessed schools
